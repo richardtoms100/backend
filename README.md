@@ -732,3 +732,7 @@ Monitor logs for:
 ## License
 
 MIT
+
+## Fix for Issue #206: Webhook integration guide missing
+
+Add a webhook integration guide covering event types, payload schemas, signature verification, and retry behavior. Merchants currently have no reference for webhook setup.
